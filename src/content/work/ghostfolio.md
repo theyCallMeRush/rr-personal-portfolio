@@ -11,7 +11,7 @@ tags:
   - User Testing
 ---
 
-For the Ghostfolio investment management platform, I conducted an in-depth penetration testing engagement, leveraging a combination of automated tools and manual techniques to identify and exploit security vulnerabilities within the platform's infrastructure. My testing approach began with OSINT (Open Source Intelligence) gathering, using tools like Shodan and Google Dorking to uncover publicly available information about the platform and its network. This initial reconnaissance allowed me to identify potential attack vectors and weak points within the network that could be exploited.
+For the <a href="https://ghostfol.io/en/home">Ghostfolio</a> investment management platform, I conducted an in-depth penetration testing engagement, leveraging a combination of automated tools and manual techniques to identify and exploit security vulnerabilities within the platform's infrastructure. My testing approach began with OSINT (Open Source Intelligence) gathering, using tools like Shodan and Google Dorking to uncover publicly available information about the platform and its network. This initial reconnaissance allowed me to identify potential attack vectors and weak points within the network that could be exploited.
 
 ###
 
