@@ -6,7 +6,7 @@ img_alt: search engine for gizmogo
 description: |
   I developed a high-performance, secure website for Gizmogo, using Nuxt.js for the frontend and Spring Boot for the backend. I also integrated WordPress API for seamless blog management.
 tags:
-  - Cyber-Security
+  - API Development
   - Dev
   - Engineering
 ---
