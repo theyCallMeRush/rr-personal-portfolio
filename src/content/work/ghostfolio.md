@@ -11,9 +11,17 @@ tags:
   - User Testing
 ---
 
-For <a href="https://ghostfol.io/en/home">Ghostfolio</a> I developed the platform using NestJS, leveraging its modular architecture to create a robust, scalable solution for tracking and managing investment portfolios. The project began with a detailed analysis of user requirements, which informed the creation of key modules: a User Module for authentication and profile management, a Portfolio Module for tracking and analyzing investments, and an Integration Module to connect with third-party financial data providers. For secure and efficient user authentication, I implemented JWT for stateless sessions, OAuth2 for social logins, and role-based access control (RBAC) to define user permissions. The backend used TypeORM to manage dynamic database schemas, enabling seamless handling of user transactions and real-time portfolio metrics. I integrated third-party APIs for live market data, using NestJS's HTTP module and Redis caching to ensure fast and reliable updates.
+For <a href="https://ghostfol.io/en/home">Ghostfolio</a> I implemented an enterprise-level SEO strategy to enhance their investment management platform's visibility and performance. The project began with an in-depth SEO audit to identify technical and content gaps, followed by optimizing on-page elements such as meta tags, headers, and URL structures, all tailored to high-value, investment-related keywords. I used advanced keyword research tools like SEMrush and Ahrefs to pinpoint opportunities in a competitive market, targeting both broad and niche investment terms.
 
 ###
 
-Data security was a top priority, with encryption using bcrypt for passwords and AES algorithms for sensitive information, alongside strict input validation through class-validator. I also implemented robust logging and analytics with Winston and the ELK stack, capturing system performance and user interactions to support business insights. Deployment was handled via Docker containers orchestrated with Kubernetes, while CI/CD pipelines built with GitHub Actions streamlined testing and deployment to AWS infrastructure. By focusing on both functionality and security, I delivered a modern, scalable platform that empowers users to track and optimize their investments with confidence.
+For off-page SEO, I developed a strategic backlink plan, focusing on acquiring authoritative financial and investment-related backlinks to improve Ghostfolio’s domain authority. I used outreach tools to build relationships with industry leaders and secure high-quality links from reputable financial websites.
+
+###
+
+On the technical side, I ensured the platform's scalability with robust SEO infrastructure, optimizing page load speeds, reducing server response times, and enhancing mobile performance for better user experience and ranking. I also implemented structured data (Schema.org) to improve visibility in rich search results and leveraged Google Tag Manager to track important conversion metrics and user behaviors.
+
+###
+
+Additionally, I set up Google Analytics to monitor key performance indicators, providing Ghostfolio with real-time insights into traffic, engagement, and conversions. This comprehensive SEO strategy led to improved search rankings, increased organic traffic, and greater user engagement for Ghostfolio’s investment management platform.
 

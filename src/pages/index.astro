@@ -1,6 +1,5 @@
 ---
 import { getCollection } from 'astro:content';
-import { GoogleAnalytics } from 'astro-google-analytics';
 // Layout import — provides basic page elements: <head>, <nav>, <footer> etc.
 import BaseLayout from '../layouts/BaseLayout.astro';
 
@@ -29,10 +28,9 @@ const projects = (await getCollection('work'))
 	<div class="stack gap-20 lg:gap-48">
 		<div class="wrapper stack gap-8 lg:gap-20">
 			<header class="hero">
-				<GoogleAnalytics id="G-R1P90M9MKE" />
 					<Hero
-						title="Hey, I'm Ryan Rushlow"
-						tagline="I'm a Developer with a passion for all things SEO, sleek design, & tailored solutions."
+						title="Crafting Data-Driven Campaigns, From Scraper to Sender."
+						tagline="Welcome to my portfolio! As a seasoned digital marketer, I bring a unique mix of creativity and technical expertise to the table. From mastering Google Ads and driving SEO results to building enterprise-grade email systems and automating campaigns, I specialize in delivering measurable growth. Whether it's developing custom web scrapers to find untapped leads or engineering seamless email flows, I thrive on crafting strategies that connect brands with their audience in innovative ways."
 						align="start"
 				>
 						<div class="roles">
@@ -91,7 +89,7 @@ const projects = (await getCollection('work'))
 				<div class="gallery">
 					<Grid variant="small">
 						{
-							['Engineering', 'Marketing Automation', 'Machine Learning', 'Programming', 'Search Engine Optimization'].map((brand) => (
+							['Engineering', 'Marketing Automation', 'Email Marketing', 'Google Ads', 'Search Engine Optimization'].map((brand) => (
 								<li class="mention-card">
 									<p>{brand}</p>
 								</li>
