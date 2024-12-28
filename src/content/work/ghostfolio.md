@@ -4,11 +4,11 @@ publishDate: 2020-03-02 00:00:00
 img: /assets/ghostfolio-wealth.png
 img_alt: ghostfolio-wealth-management
 description: |
-  This is Ghostfolio, where I designed and implemented a scalable architecture, integrated robust features for tracking investments, and ensured comprehensive security measures to protect user data and enhance platform reliability.
+  This is Ghostfolio, where I designed and implemented a scalable SEO architecture, optimizing the site for both search engines and user experience. I integrated advanced on-page SEO features, including keyword optimization, structured data, and optimized site architecture, to improve search visibility and enhance organic rankings. Additionally, I ensured the implementation of comprehensive technical SEO measures, focusing on site speed, mobile optimization, and crawl efficiency to boost performance and platform reliability in search engine results.
 tags:
-  - Design
+  - SEO
   - Dev
-  - User Testing
+  - Backlinks
 ---
 
 For <a href="https://ghostfol.io/en/home">Ghostfolio</a> I implemented an enterprise-level SEO strategy to enhance their investment management platform's visibility and performance. The project began with an in-depth SEO audit to identify technical and content gaps, followed by optimizing on-page elements such as meta tags, headers, and URL structures, all tailored to high-value, investment-related keywords. I used advanced keyword research tools like SEMrush and Ahrefs to pinpoint opportunities in a competitive market, targeting both broad and niche investment terms.
@@ -23,5 +23,5 @@ On the technical side, I ensured the platform's scalability with robust SEO infr
 
 ###
 
-Additionally, I set up Google Analytics to monitor key performance indicators, providing Ghostfolio with real-time insights into traffic, engagement, and conversions. This comprehensive SEO strategy led to improved search rankings, increased organic traffic, and greater user engagement for Ghostfolio’s investment management platform.
+Additionally, I set up Google Analytics & Tag Manager to monitor key performance indicators, providing Ghostfolio with real-time insights into traffic, engagement, and conversions. This comprehensive SEO strategy led to improved search rankings, increased organic traffic, and greater user engagement for Ghostfolio’s investment management platform.
 
